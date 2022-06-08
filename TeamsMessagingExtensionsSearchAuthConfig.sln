@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsMessagingExtensionsSearchAuthConfig", "TeamsMessagingExtensionsSearchAuthConfig.csproj", "{C9929EF1-5FA2-4F12-8CC1-CD08CEDA932E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9929EF1-5FA2-4F12-8CC1-CD08CEDA932E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9929EF1-5FA2-4F12-8CC1-CD08CEDA932E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9929EF1-5FA2-4F12-8CC1-CD08CEDA932E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9929EF1-5FA2-4F12-8CC1-CD08CEDA932E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31CA2B6D-F332-4063-A7E1-325AD8F2B169}
+	EndGlobalSection
+EndGlobal

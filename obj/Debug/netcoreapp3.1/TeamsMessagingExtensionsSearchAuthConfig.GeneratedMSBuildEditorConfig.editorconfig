@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TeamsMessagingExtensionsSearchAuthConfig
+build_property.ProjectDir = /Users/preetiyadav/PythonEcho/botbuilder-samples/samples/csharp_dotnetcore/52.teams-messaging-extensions-search-auth-config/
